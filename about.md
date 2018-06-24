@@ -27,6 +27,7 @@ Technical things about me (if you're interested):
   * Visual Studio Code OR Atom - casual text editing (e.g. simple Python scripts)
 * GitHub or BitBucket: GitHub (for personal use)
 * Operating System Preference: \*Nix in general
+* Favorite data structure: Maps of course
 
 ### Contact me
 
