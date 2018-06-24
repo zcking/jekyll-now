@@ -1,0 +1,4 @@
+<div markdown="span" class="alert alert-{{ include.level }}" role="alert">
+<i class="fa fa-{% if include.level == "info" or include.level == "success" %}info-circle{% else %}exclamation-triangle{% endif %}"></i> 
+{{ include.content }}
+</div>
