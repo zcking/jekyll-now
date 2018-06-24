@@ -111,6 +111,11 @@ img {
   max-width: 100%;
 }
 
+.caption-backdrop {
+  background-color: rgba(50, 50, 50, 0.3);
+  border-radius: 10%;
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;

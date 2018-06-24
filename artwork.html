@@ -1,0 +1,40 @@
+---
+layout: default
+title: Artwork
+---
+
+<h1>Artwork</h1>
+Here you'll find some of the artwork I've done either for fun or as a class assignment.
+Most of it is digital, but I also enjoy making tangible art such as stenciling,
+origami, and sketching.
+
+<br><br>
+
+<hr />
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+    {% for artwork in site.data.artwork offset:1 %}
+      <li data-target="#carouselExampleIndicators" data-slide-to="{{ forloop.index }}"></li>
+    {% endfor %}
+  </ol>
+  <div class="carousel-inner">
+    {% for artwork in site.data.artwork %}
+      <div class="carousel-item {% if forloop.index == 1 %}active{% endif %}">
+        <img class="d-block w-100" src="{{ artwork.url }}" alt="{{ artwork.title }}">
+        <div class="carousel-caption d-none d-md-block {% if artwork.backdrop %}caption-backdrop{% endif %}">
+          <h3 style="color: {% if artwork.color%}{{ artwork.color }}{% else %}white{% endif %}">{{ artwork.title }}</h3>
+          <p style="color: {% if artwork.color %}{{ artwork.color }}{% else %}white{% endif %}">{{ artwork.description }}</p>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>

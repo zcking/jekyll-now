@@ -1,0 +1,64 @@
+- title: Destroyer of Worlds
+  description: Poster quote of Robert Oppenheimer's famouse line, "I am become death, the destroyer of worlds".
+    This was the first piece of an assignment to make two posters for quotes.
+  url: /images/artwork/oppenheimer-quote.png
+
+- title: Without Music
+  description: Poster quote of Neitzsche. I'm a musician mysef and use it to express myself and relate to others. This is one of my favorite quotes.
+    This was the second piece of an assignment to make two posters for quotes.
+  url: /images/artwork/music-quote.png
+  color: black
+
+- title: Dog Walking
+  description: A fun an interesting effect I did on a photo of a person walking their dog. The assignment was just to remove something from the portrait and I just had fun with it.
+  url: /images/artwork/walking-dog.jpg
+  color: black
+
+- title: More Wine?
+  description: This is a cinemagraph I did for class. I filmed myself pouring wine and then used
+    photoshop to edit it so only the liquid falling into the glass is animated, while the rest is a still shot.
+  url: /images/artwork/wine-cinemagraph.gif
+
+- title: Games Knoll
+  description: This assignment was to create a knoll in Illustrator. I chose to
+    create a knoll based on video game systems since I enjoy playing games. I created
+    a color palette and primarily used the pen tool and pathfinder in Illustrator to draw the piece.
+  url: /images/artwork/illustrator-gamesknoll_orig.jpg
+  backdrop: true
+
+- title: Ancient Tree
+  description: I took this photo while out with my girlfriend on a hamocking trip.
+    Later I converted it to grayscale, adjusted values, and touched it up using the burn tool to
+    give it this awesome ancient look. To me it's just really calming and peaceful to look at.
+  url: /images/artwork/enhanced-photo-tree.jpg
+  backdrop: true
+
+- title: Grayscale Self Portrait
+  description: Self portrait I converted to grayscale, enhanced, and touched up.
+  url: /images/artwork/enhanced-photo-self-portrait.jpg" alt="grayscale self portrait
+
+- title: Recolored Self Portrait
+  description: Custom recoloring of my self portrait after enhancing in grayscale.
+    So I converted the original image to grayscale, touched it up and enhanced it, and then
+    I brought the color back to life by hand, and that is what you see before you.
+  url: /images/artwork/recolored-photo-self-portrait.jpg
+
+- title: Grayscale Airplane Wing
+  description: Photo I took on the way to San Jose for a conference. It was my first time ever flying
+    and I managed to get a few decent photos from my window seat.
+  url: /images/artwork/enhanced-photo-plane.jpg" alt="air plane wing grayscale
+
+- title: Recolored Airplane Wing
+  description: Custom recoloring of airplane photo after enhancing in grayscale.
+    So I converted the original image to grayscale, adjusted the values, and enhanced it, and then
+    I brought the color back to life by hand.
+  url: /images/artwork/recolored-photo-plane.jpg" alt="recolored plane wing
+
+- title: Plane...Pad?
+  description: If you look closely, you'll notice something interesting about this
+    photo--there is an airplane on a helipad. This piece is what I did for a class
+    assignment to place a 3D model in an image and make it "fit in." I chose a 3D model
+    of an airplane, used Photoshop to place it, recolored, adjusted levels, added
+    shadows for realism, and added a lens flare for fun.
+  url: /images/artwork/3d-model-plane.jpg
+  backdrop: true
