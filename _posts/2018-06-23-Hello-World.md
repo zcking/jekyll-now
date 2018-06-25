@@ -2,6 +2,7 @@
 layout: post
 title: Hello World
 categories: life
+comments: true
 ---
 
 Welcome to my new blog! Today I launched my new blog, which you see before you.

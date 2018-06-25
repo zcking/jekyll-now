@@ -2,6 +2,7 @@
 layout: post
 title: "Hashing: Data Privacy and Authentication"
 categories: programming cybersecurity
+comments: true
 ---
 
 Today's post is going to be dedicated to "*hashing*", a term used pretty
