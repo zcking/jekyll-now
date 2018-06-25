@@ -25,10 +25,10 @@ footer-links:
   instagram:
   linkedin: zcking
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: zcking # just type anything here for a working RSS icon
   twitter: kingzach77
   stackoverflow: users/3148109/zach-king # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: channel/UCyjgpEJIJbT7w7vFQ2fc4XA # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
