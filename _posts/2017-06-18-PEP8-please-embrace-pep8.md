@@ -2,6 +2,7 @@
 layout: post
 title: "PEP8: Please Embrace PEP8"
 categories: programming
+comments: true
 ---
 
 {% include alert.html content="<b>Heads Up!</b> This post is a port of an older post from my old blog" level="info" %}
