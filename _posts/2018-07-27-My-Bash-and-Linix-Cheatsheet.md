@@ -325,7 +325,7 @@ streams to the same file you would use `2>&1` in combination with the `>` or `>>
 operator; this tells the OS to redirect `stderr` (file descriptor = 2) to
 the `stdout` stream (file descriptor = 1). For example:  
 ```bash
-python my_script.py > output.txt 2>1&
+python my_script.py > output.txt 2>&1
 ```
 
 {% include alert.html content="<b>Note</b> doing this still locks up your terminal until the program
