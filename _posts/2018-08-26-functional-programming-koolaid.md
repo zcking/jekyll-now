@@ -2,7 +2,7 @@
 layout: post
 title: "Functional Programming with Scala"
 categories: programming functional
-comments: false
+comments: true
 ---
 
 Welcome! While not a new topic at all, I thought I'd schpill about
